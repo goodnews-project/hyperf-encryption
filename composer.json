@@ -1,5 +1,5 @@
 {
-    "name": "gzh/hyperf-encryption",
+    "name": "goodnews/hyperf-encryption",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -10,8 +10,8 @@
     "description": "The Hyperf Encryption package.",
     "authors": [
         {
-            "name": "gzh",
-            "email": "gzh19881116@163.com"
+            "name": "goodnews",
+            "email": "admin@good.news"
         }
     ],
     "autoload": {
