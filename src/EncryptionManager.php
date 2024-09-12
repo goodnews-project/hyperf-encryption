@@ -15,6 +15,7 @@ use HyperfExt\Encryption\Contract\DriverInterface;
 use HyperfExt\Encryption\Contract\EncryptionInterface;
 use HyperfExt\Encryption\Driver\AesDriver;
 use InvalidArgumentException;
+use function Hyperf\Support\make;
 
 class EncryptionManager implements EncryptionInterface
 {
